@@ -49,4 +49,4 @@ Test time augmentation(TTA)是对测试数据集进行数据扩展的测试时�
 
 ## 模型得分
 
-![image-20200710165514083](https://github.com/mgykk/FlyAI-BaldClassification/blob/master/1594371307(1).png)
+![image-20200710165514083](https://github.com/mgykk/FlyAI-BaldClassification/blob/master/images/result.png)
