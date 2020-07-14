@@ -48,7 +48,7 @@
 
 学习率图像：
 
-<img src="E:\my_github\FlyAI-BaldClassification\images\Figure_1.png" style="zoom:80%;" />
+<img src="https://github.com/mgykk/FlyAI-BaldClassification/blob/master/images/Figure_1.jpg" style="zoom:80%;" />
 
 ## TTA
 
@@ -58,4 +58,4 @@ Test time augmentation(TTA)是对测试数据集进行数据扩展的测试时�
 
 ## 模型得分
 
-![](E:\my_github\FlyAI-BaldClassification\images\result.png)
+![](https://github.com/mgykk/FlyAI-BaldClassification/blob/master/images/result.png)
